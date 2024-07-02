@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API Volley Json</string>
+    <string name="some_random">some random quote , this is dummy text</string>
+    <string name="author">-Author</string>
+</resources>
